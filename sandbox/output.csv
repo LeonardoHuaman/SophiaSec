@@ -1,0 +1,18 @@
+Hostname,IP Management,Tipo de Equipo,Slot,Descriptivo,PID,Número de Serie,SW Versión,System Image,CPU Average,FAN Health,FAN Redundancy,Power Health,Power Redundancy,Temperature,NAME
+SWP1-STACK-03,10.15.82.61,,,c38xx Stack,WS-C3850-48P,FCW1832C181,03.06.06E,packages.conf,16%,OK, , Good  , ,OK,c38xx Stack
+ , ,,,WS-C3850-48F-L,WS-C3850-48F-L,FCW1832C181, , ,11%,OK, , Good  , ,OK,Switch 1
+ , ,,,Switch 1 - Power Supply A,PWR-C1-1100WAC,LIT18311266, , ,11%,OK, , Good  , ,OK,Switch 1 - Power Supply A
+ , ,,,Switch 1 - Power Supply B,PWR-C1-1100WAC,LIT183112QA, , ,8%,OK, , Good  , , ,Switch 1 - Power Supply B
+ , ,,,2x1G 2x10G Uplink Module,C3850-NM-2-10G,FOC183056TN, , , ,OK, , Good  , , ,Switch 1 FRU Uplink Module 1
+ , ,,,SFP-10GBase-SR,SFP-10G-SR,FNS18310881, , , ,OK, , Good  , , ,TenGigabitEthernet1/1/3
+ , ,,,SFP-10GBase-SR,SFP-10G-SR,FNS18310EKL, , , ,OK, , , , ,TenGigabitEthernet1/1/4
+ , ,,,WS-C3850-48F-L,WS-C3850-48F-L,FOC1829U0H6, , , ,OK, , , , ,Switch 2
+ , ,,,Switch 2 - Power Supply A,PWR-C1-1100WAC,LIT183111UY, , , ,OK, , , , ,Switch 2 - Power Supply A
+ , ,,,Switch 2 - Power Supply B,PWR-C1-1100WAC,LIT183110XA, , , ,OK, , , , ,Switch 2 - Power Supply B
+ , ,,,2x1G 2x10G Uplink Module,C3850-NM-2-10G,FOC183151JD, , , ,OK, , , , ,Switch 2 FRU Uplink Module 1
+ , ,,,SFP-10GBase-SR,SFP-10G-SR,FNS18310E77, , , ,OK, , , , ,TenGigabitEthernet2/1/4
+ , ,,,WS-C3850-48F-L,WS-C3850-48F-L,FCW1829C028, , , ,OK, , , , ,Switch 3
+ , ,,,Switch 3 - Power Supply A,PWR-C1-1100WAC,LIT18310Z1P, , , ,OK, , , , ,Switch 3 - Power Supply A
+ , ,,,Switch 3 - Power Supply B,PWR-C1-1100WAC,LIT18310ZCQ, , , ,OK, , , , ,Switch 3 - Power Supply B
+ , ,,,2x1G 2x10G Uplink Module,C3850-NM-2-10G,FOC183056FW, , , , , , , , ,Switch 3 FRU Uplink Module 1
+ , ,,,SFP-10GBase-SR,SFP-10G-SR,FNS19471886, , , , , , , , ,TenGigabitEthernet3/1/3
